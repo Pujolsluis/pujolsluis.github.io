@@ -31,7 +31,7 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**For more details** see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 ### Jekyll Themes
